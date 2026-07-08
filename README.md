@@ -1,4 +1,4 @@
-# ⚽ Soccer Player Recommendation Engine
+# Soccer Player Recommendation Engine
 
 A machine learning-powered scouting tool that finds **statistically similar players** across 12 leagues and surfaces **undervalued talent** from smaller leagues. Built with Python, scikit-learn, and an interactive HTML dashboard.
 
@@ -34,7 +34,7 @@ Need a replacement winger under €10M and younger than 24? The engine filters b
 
 ---
 
-## 📊 Features Analyzed (per 90 minutes)
+## Features Analyzed (per 90 minutes)
 
 **Attacking:** Goals, Assists, xG, xA, Shots, Key Passes, Dribbles Completed
 
@@ -44,7 +44,7 @@ Need a replacement winger under €10M and younger than 24? The engine filters b
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Python** — core language
 - **scikit-learn** — KNN, PCA, StandardScaler, cosine similarity
@@ -54,7 +54,7 @@ Need a replacement winger under €10M and younger than 24? The engine filters b
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Prerequisites
 ```bash
