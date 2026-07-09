@@ -142,8 +142,8 @@ soccer-player-recommender/
 
 ##  Contact
 
-Built by **Manny** — Business Administration (MIS) student at Washington State University.
+Built by Emmanuel Vazquez, a Business Administration (MIS) student at Washington State University.
 
-This is project #2 in my ML portfolio. Project #1: [Stock Market Clustering with K-Means from Scratch](https://github.com/YOUR-USERNAME/ml-stock-clustering)
+This is project #2 in my ML portfolio.
 
 Feel free to connect on [LinkedIn](https://linkedin.com/in/YOUR-PROFILE) or reach out with questions!
